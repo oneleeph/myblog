@@ -1,0 +1,77 @@
+[
+  {
+    "pageKey": "fiz2nl",
+    "title": "/",
+    "url": "/"
+  },
+  {
+    "pageKey": "wasyk8",
+    "title": "/about",
+    "url": "/about"
+  },
+  {
+    "pageKey": "ncqwfp",
+    "title": "/admin",
+    "url": "/admin"
+  },
+  {
+    "pageKey": "5lcxt3",
+    "title": "/admin/articles",
+    "url": "/admin/articles"
+  },
+  {
+    "pageKey": "3q9vor",
+    "title": "/admin/articles/:id/edit",
+    "url": "/admin/articles/:id/edit"
+  },
+  {
+    "pageKey": "ye9oa5",
+    "title": "/admin/articles/new",
+    "url": "/admin/articles/new"
+  },
+  {
+    "pageKey": "7gdurv",
+    "title": "/admin/export",
+    "url": "/admin/export"
+  },
+  {
+    "pageKey": "ri8veo",
+    "title": "/admin/media",
+    "url": "/admin/media"
+  },
+  {
+    "pageKey": "cxegw3",
+    "title": "/admin/settings",
+    "url": "/admin/settings"
+  },
+  {
+    "pageKey": "ra5hmj",
+    "title": "/admin/tags",
+    "url": "/admin/tags"
+  },
+  {
+    "pageKey": "5qwczg",
+    "title": "/admin/users",
+    "url": "/admin/users"
+  },
+  {
+    "pageKey": "ypvn79",
+    "title": "/article/:id",
+    "url": "/article/:id"
+  },
+  {
+    "pageKey": "n8bnq2",
+    "title": "/login",
+    "url": "/login"
+  },
+  {
+    "pageKey": "0x9g08",
+    "title": "/tag/:slug",
+    "url": "/tag/:slug"
+  },
+  {
+    "pageKey": "ttcvzh",
+    "title": "/tags",
+    "url": "/tags"
+  }
+]

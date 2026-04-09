@@ -1,0 +1,9 @@
+{
+  "experimentalServices": {
+    "myservice": {
+      "cwd": "backend",
+      "buildCommand": "pnpm install && pnpm build && npx prisma migrate deploy",
+      "startCommand": "node dist/server.js"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "experimentalServices": [
+    {
+      "entry": "dist/server.js",
+      "name": "backend",
+      "installCommand": "pnpm install",
+      "buildCommand": "pnpm build && npx prisma migrate deploy"
+    }
+  ]
+}

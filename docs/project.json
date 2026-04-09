@@ -1,0 +1,8 @@
+{
+  "project_type": "web",
+  "sub_project_type": "",
+  "name": "个人博客系统",
+  "app_slug": "personal-blog",
+  "version_description": "完成博客全文前端页面开发",
+  "preview_type": "pc"
+}
